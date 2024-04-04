@@ -16,5 +16,5 @@ ParyaTan is mainly developed for the people who visit coorg and dose'nt know whi
 ![Screenshot from 2024-04-05 09-41-38](https://github.com/Krupal-create/ParyaTan/assets/85097081/d23d4760-ebd3-4f2b-80dc-a93d78b765a7)
 
 
-Currently this app is under process. If anyone interested can contribute. TO contact me visit my website:<br>
+Currently this app is under process. If anyone interested can contribute. To contact me visit my website:<br>
 www.techmachine.me
