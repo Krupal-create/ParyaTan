@@ -1,4 +1,7 @@
 # ParyaTan
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 A travelling guide application using Python and Kivy. Which will help tourists to locate the places to visit, stay, rent, food, grocery, etc.<br>
 ParyaTan is mainly developed for the people who visit coorg and dose'nt know which all places to visit, they can use my app for the knowledge of temples, waterfalls, resorts, etc. The app is very user friendly as any user who is using it for the first time can easily understand the usage and UI functions.
 
